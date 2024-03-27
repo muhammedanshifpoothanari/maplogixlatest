@@ -1,7 +1,4 @@
-/**
- * params:{key,CardTitle,CardDescription,ButtonTitle,srcOne,srcTwo}
- * @see https://v0.dev/t/0g3Kxm7aD8z
- */
+
 import { CardTitle, CardDescription, CardHeader, CardContent, Card } from "@/src/components/ui/card"
 import { Button } from "@/src/components/ui/button"
 import Image from "next/image"
